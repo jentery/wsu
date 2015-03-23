@@ -1,2 +1,3 @@
-# transduction
-Repository for "Transduction Literacies" talk at MLA 2015 in Vancouver
+# Critical Making: Where Are the Politics
+
+Slidedeck for Washington State University Talk (23 March 2015) 
